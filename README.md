@@ -2,7 +2,7 @@
 
 This repository contains a practical exercise of Primary Production developed by Bob Brewin at the University of Exeter (r.brewin@exeter.ac.uk).
 
-Launch the practical by clicking the logo below
+Launch the practical by clicking the logo below Hello
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PrimaryProduction/Non_spectral_PP_model/HEAD)
 
